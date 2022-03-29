@@ -17,7 +17,7 @@ name                     : ""
 description              : ""
 url                      : ""
 baseurl                  : ""
-repository               : "ioniodi/site-gr"
+repository               : "xar1sgeovlacp2019059/sitegr "
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -88,14 +88,14 @@ author:
   bio              : # "Ionian University"
   location         : # "Corfu, Greece"
   email            : "contact@di.ionio.gr"
-  uri              : "http://di.ionio.gr"
+  uri              : "http://di.xar1sgeovlacp2019059/sitegr.gr"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ioniodi"
+  github           : "xar1sgeovlacp2019059/sitegr"
   google_plus      :
   keybase          :
   instagram        :
